@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DispositivosMoveisFA</string>
+    <string name="title_app">Diarios de Notas</string>
+    <string name="bnt_registre">Registrar</string>
+    <string name="bnt_voltar">Voltar</string>
+    <string name="bnt_excluir">Excluir</string>
+    <string name="bnt_salvar">Salvar</string>
+    <string name="regi">Registros</string>
+</resources>
